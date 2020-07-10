@@ -1,4 +1,7 @@
 # Cuong Nguyen (Ralph)
+
+![](https://raw.githubusercontent.com/6220119/6220119/master/nyan-small.gif)
+
 Hi 👋, I'm Ralph – a software engineer, specialized on frontend web development, working [**@grab**](https://github.com/grab) to support driver acquisition operations across Southeast Asia. I love learning new stuffs that make the www better, faster, and more accessible. 
 
 These days, I work mostly with [TypeScript](https://github.com/Microsoft/TypeScript), [ReactJS](https://github.com/facebook/react), [GraphQL](https://github.com/apollographql/apollo-client) and other frontend ecosystem libraries.
