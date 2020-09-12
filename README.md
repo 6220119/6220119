@@ -16,6 +16,7 @@ Places I have been to: 🇻🇳, 🇸🇬, 🇲🇾(Langkawi, Kuala Lumpur), �
 
 # Writing
 - [macOS + FullHD monitor = 💔](https://medium.com/@nvucuong/macos-blurry-texts-on-an-external-full-hd-monitor-d2a955c25607)
+- [Flutter MethodChannel and Dart Generic, beginner gotcha!](https://medium.com/@nvucuong/flutter-methodchannel-dart-generic-and-type-casting-54ca48e6d3ad)
 
 # Get in touch
 - 👨‍💻 LinkedIn [@nvucuong](https://www.linkedin.com/in/nvucuong/)
