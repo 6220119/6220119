@@ -8,7 +8,7 @@ These days, I work mostly with [TypeScript](https://github.com/Microsoft/TypeScr
 
 I value diversity, transparency, embrace failures and believe in growth mindset.
 
-Places I have been to: 🇻🇳, 🇸🇬, 🇲🇾(Langkawi, Kuala Lumpur), 🇮🇳(Chennai), 🇮🇩(Jakarta), 🇺🇸(Calabasas)
+Places I have been to: 🇻🇳, 🇸🇬, 🇲🇾, 🇮🇳, 🇮🇩, 🇺🇸
 
 # Looking for
 - Remote-first job opportunities 🏝
@@ -22,3 +22,24 @@ Places I have been to: 🇻🇳, 🇸🇬, 🇲🇾(Langkawi, Kuala Lumpur), �
 - 👨‍💻 LinkedIn [@nvucuong](https://www.linkedin.com/in/nvucuong/)
 - 🐧 Twitter [@nvucuong](https://twitter.com/nvucuong)
 - I'm also 💖 🎮 on Nintendo Switch, add meh: `SW-3048-7737-5109`
+
+
+
+
+<details>
+  <summary></summary>
+  <details>
+    <summary>Hmm..</summary>
+    <details> 
+      <summary>You..</summary>
+      <details>    
+        <summary>are really curious, huh?</summary>
+        <details>
+          <summary>It's just an experiment with tags 😄</summary>
+          
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=6220119.6220119)
+        </details>
+      </details>
+    </details>
+  </details>
+</details>
