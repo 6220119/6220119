@@ -17,6 +17,7 @@ Places I have been to: 🇻🇳, 🇸🇬, 🇲🇾, 🇮🇳, 🇮🇩, 🇺�
 # Writing
 - [macOS + FullHD monitor = 💔](https://medium.com/@nvucuong/macos-blurry-texts-on-an-external-full-hd-monitor-d2a955c25607)
 - [Flutter MethodChannel and Dart Generic, beginner gotcha!](https://medium.com/@nvucuong/flutter-methodchannel-dart-generic-and-type-casting-54ca48e6d3ad)
+- [Working hard does not guarantee a promotion in big corp](https://nvucuong.medium.com/not-happy-with-the-recent-performance-review-in-spite-of-all-the-hard-working-effort-a1f365003441)
 
 # Get in touch
 - 👨‍💻 LinkedIn [@nvucuong](https://www.linkedin.com/in/nvucuong/)
